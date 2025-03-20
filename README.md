@@ -31,18 +31,18 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 git clone https://github.com/Leonardo1205/Projeto_senha_banco
 
 ---
-### 4️⃣ Vá até a pasta do projeto
+### 2️⃣ Vá até a pasta do projeto
 
 cd Projeto_Banco
 
 ---
-### 2️⃣ Instale as dependências
+### 3️⃣ Instale as dependências
 
 npm install
 
 ---
 
-### 3️⃣ Inicie o servidor
+### 4️⃣ Inicie o servidor
 
 node server.js
 
