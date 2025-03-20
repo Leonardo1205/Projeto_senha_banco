@@ -28,7 +28,7 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 
 ### 1️⃣ Clone o repositório
 
-git clone https://github.com/seu-usuario/Projeto_Banco.git
+git clone https://github.com/Leonardo1205/Projeto_senha_banco
 
 ---
 ### 4️⃣ Vá até a pasta do projeto
